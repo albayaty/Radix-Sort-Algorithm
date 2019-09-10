@@ -14,6 +14,6 @@ Fulbright Scholar, MSEE '14
 
 ==========================
 
-	outputs of 20 numbers
+		outputs of 20 numbers
 	
 ==========================
