@@ -14,6 +14,6 @@ Fulbright Scholar, MSEE '14
 
 ==========================
 
-	outputs of 1K numbers
+		outputs of 1K numbers
 	
 ==========================
